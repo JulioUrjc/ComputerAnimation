@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 447136e06ab9a35429b48ae316886100
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Antena
+    100002: Antena.2
+    100004: Bomberman
+    100006: //RootNode
+    100008: Bomberman.2
+    100010: Cabeza
+    100012: Cabeza.2
+    100014: Cuello
+    100016: Cuello.2
+    100018: L_Ankle
+    100020: L_Ankle.2
+    100022: L_Elbow
+    100024: L_Elbow.2
+    100026: L_Foot
+    100028: L_Foot.2
+    100030: L_Hand
+    100032: L_Hand.2
+    100034: L_Rnee
+    100036: L_Rnee.2
+    100038: L_Shoulder
+    100040: L_Shoulder.2
+    100042: L_Thigh
+    100044: L_Thigh.2
+    100046: L_Toes
+    100048: L_Toes.2
+    100050: Lower Spine
+    100052: Lower Spine.2
+    100054: Pelvis
+    100056: Pelvis.2
+    100058: Piel
+    100060: Piel.2
+    100062: R_Ankle
+    100064: R_Ankle.2
+    100066: R_Elbow
+    100068: R_Elbow.2
+    100070: R_Foot
+    100072: R_Foot.2
+    100074: R_Hand
+    100076: R_Hand.2
+    100078: R_Rnee
+    100080: R_Rnee.2
+    100082: R_Shoulder
+    100084: R_Shoulder.2
+    100086: R_Thigh
+    100088: R_Thigh.2
+    100090: R_Toes
+    100092: R_Toes.2
+    100094: Upper Spine
+    100096: Upper Spine.2
+    400000: Antena
+    400002: Antena.2
+    400004: Bomberman
+    400006: //RootNode
+    400008: Bomberman.2
+    400010: Cabeza
+    400012: Cabeza.2
+    400014: Cuello
+    400016: Cuello.2
+    400018: L_Ankle
+    400020: L_Ankle.2
+    400022: L_Elbow
+    400024: L_Elbow.2
+    400026: L_Foot
+    400028: L_Foot.2
+    400030: L_Hand
+    400032: L_Hand.2
+    400034: L_Rnee
+    400036: L_Rnee.2
+    400038: L_Shoulder
+    400040: L_Shoulder.2
+    400042: L_Thigh
+    400044: L_Thigh.2
+    400046: L_Toes
+    400048: L_Toes.2
+    400050: Lower Spine
+    400052: Lower Spine.2
+    400054: Pelvis
+    400056: Pelvis.2
+    400058: Piel
+    400060: Piel.2
+    400062: R_Ankle
+    400064: R_Ankle.2
+    400066: R_Elbow
+    400068: R_Elbow.2
+    400070: R_Foot
+    400072: R_Foot.2
+    400074: R_Hand
+    400076: R_Hand.2
+    400078: R_Rnee
+    400080: R_Rnee.2
+    400082: R_Shoulder
+    400084: R_Shoulder.2
+    400086: R_Thigh
+    400088: R_Thigh.2
+    400090: R_Toes
+    400092: R_Toes.2
+    400094: Upper Spine
+    400096: Upper Spine.2
+    4300000: Bomberman
+    4300002: Bomberman.2
+    7400002: idle
+    7400004: caminar
+    7400006: bomba
+    7400008: ganar
+    7400010: perder
+    7400012: broma
+    11100000: //RootNode
+    13700000: Bomberman
+    13700002: Bomberman.2
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: 
+      firstFrame: 5
+      lastFrame: 40
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: caminar
+      takeName: 
+      firstFrame: 50
+      lastFrame: 89
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: bomba
+      takeName: 
+      firstFrame: 100
+      lastFrame: 130
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: ganar
+      takeName: 
+      firstFrame: 140
+      lastFrame: 180
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: perder
+      takeName: 
+      firstFrame: 185
+      lastFrame: 225
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: broma
+      takeName: 
+      firstFrame: 230
+      lastFrame: 290
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
